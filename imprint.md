@@ -16,7 +16,7 @@ no_toc: true
   <p>Randy Jacops</p>
   <h4>Kontakt (Contact)</h4>
   <p>
-    Email phyothura@one.com <br>
+    Email contact@travis-ci.org <br>
   </p>
   <h4>Registereintrag (Commercial Registration Number)</h4>
   <p>HRB 140133 B</p>

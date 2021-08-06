@@ -228,3 +228,4 @@ You can find more information on the build config format for [Go](https://config
 
 - [Go AMQP client](https://github.com/streadway/amqp/blob/master/.travis.yml)
 - [mrb/hob](https://github.com/mrb/hob/blob/master/.travis.yml)
+- [tsuru/tsuru](https://github.com/tsuru/tsuru/blob/master/.travis.yml)
